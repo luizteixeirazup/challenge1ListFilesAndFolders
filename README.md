@@ -16,7 +16,8 @@ git clone https://github.com/luizteixeirazup/challenge1ListFilesAndFolders.git
 
 * 2) Compilar e empacotar o projeto usando o Maven
 
-na pasta challenge1ListFilesAndFolders
+folder challenge1ListFilesAndFolders \n
+
 mvn clean install
 
 * 3) Executar a extensão .jar por linha de comando, adicionando o parâmetro (folder pathname) que será analisado.
