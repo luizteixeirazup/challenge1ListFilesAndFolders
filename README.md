@@ -6,7 +6,7 @@ A aplicação lista os arquivos de um diretório informado e de suas subpastas.
 
 ## Tecnologias:
 
-* JDK 13.0.1 2019-10-15
+* JDK 13.0.1
 
 * Apache Maven 3.6.2
 
