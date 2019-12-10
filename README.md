@@ -22,6 +22,6 @@ folder challenge1ListFilesAndFolders
 
 mvn clean install
 
-* 3) Executar a extensão .jar por linha de comando, adicionando o parâmetro (folder pathname) que será analisado.
+* 3) Executar a extensão .jar por linha de comando, adicionando o parâmetro (folder pathname) que será analisado
 
 java -jar challenge1ListFilesAndFolders-0.0.1-SNAPSHOT.jar "(folder pathname)"
